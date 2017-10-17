@@ -1,0 +1,10 @@
+body {
+@charset "utf-8";
+html {
+    box-sizing: border-box;
+	color: #000000;
+	text-shadow: 0px 0px #EC2529;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}}
